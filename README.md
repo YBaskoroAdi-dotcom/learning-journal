@@ -1,6 +1,8 @@
 "# Learning Journal - Reverse Engineering
 
 Repositori ini merupakan dokumentasi perjalanan belajar mata kuliah Reverse Engineering selama satu semester.
+Tools yang digunakan untuk melakukan pembelajaran adalah VMWare yang berisi Ubuntu dan Ghidra sebagai tools untuk
+membedah malware.
 
 ## Penulis
 Nama: Yudhistira Baskoro Adi Admojo
