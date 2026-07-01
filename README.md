@@ -4,7 +4,7 @@ Repositori ini merupakan dokumentasi perjalanan belajar mata kuliah Keamanan Sib
 
 ## Penulis
 Nama: Yudhistira Baskoro Adi Admojo
-NIM: [Masukkan NIM kamu di sini]
+NIM: 24.83.1094
 
 ## Tujuan Pembelajaran
 1. Memahami metodologi analisis statis dan dinamis pada binary PE.
