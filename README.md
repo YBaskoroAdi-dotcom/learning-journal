@@ -1,10 +1,13 @@
 "# Learning Journal - Reverse Engineering
 
-Repositori ini merupakan dokumentasi perjalanan belajar mata kuliah Keamanan Siber, khususnya dalam topik Reverse Engineering selama satu semester.
+Repositori ini merupakan dokumentasi perjalanan belajar mata kuliah Reverse Engineering selama satu semester.
+
+Tools yang digunakan untuk melakukan pembelajaran adalah VMWare yang berisi Ubuntu dan Ghidra sebagai tools untuk
+membedah malware.
 
 ## Penulis
 Nama: Yudhistira Baskoro Adi Admojo
-NIM: [Masukkan NIM kamu di sini]
+NIM: 24.83.1094
 
 ## Tujuan Pembelajaran
 1. Memahami metodologi analisis statis dan dinamis pada binary PE.
@@ -16,4 +19,4 @@ NIM: [Masukkan NIM kamu di sini]
 - `/docs`: Berisi laporan analisis teknis yang dilakukan.
 
 ## Disclaimer
-Seluruh analisis dalam repositori ini dilakukan di dalam *environment* virtual yang terisolasi untuk tujuan edukasi. Jangan mengunduh atau mengeksekusi sampel malware secara sembarangan di sistem *host* kamu." 
+Seluruh analisis dalam repositori ini dilakukan di dalam *environment* virtual yang terisolasi untuk tujuan edukasi. Jangan mengunduh atau mengeksekusi sampel malware secara sembarangan di sistem operasi utama." 
